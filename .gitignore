@@ -1,0 +1,5 @@
+# Generated binaries from the detection lab.
+/bin/
+
+# Local Go build cache/output if configured inside the repository.
+/.gocache/
